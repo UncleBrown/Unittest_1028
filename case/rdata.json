@@ -1,0 +1,5 @@
+{
+	"site_info_1":[{"site_id":7,"push_sum":2000}],
+	"site_info_2":[{"site_id":8,"push_sum":1000}],
+	"site_info_3":[{"site_id":33,"push_sum":200}],
+	"site_info_4":{"review_info": [{"review_id": 1,"ratio": 50},{"review_id": 2,"ratio": 0},{"review_id": 3,"ratio": 50}]}}
